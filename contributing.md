@@ -208,6 +208,6 @@ tool completely — there is no uninstaller and no registry entry.
 
 ---
 
-*god-of-war-windows-tool · Updated 2026-11-04 · Shared under the MIT License*
+*god-of-war-windows-tool · Updated 2026-11-05 · Shared under the MIT License*
 
-<!-- last reviewed 2026-11-04 -->
+<!-- last reviewed 2026-11-05 -->
